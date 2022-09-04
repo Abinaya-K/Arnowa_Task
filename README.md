@@ -3,7 +3,7 @@ DATA ANALYST
 # Task A
 I have done visualization using POWERBI.
 Have uploaded both POWERBI Document and PDF.
-Open in POWERBI for interative dashboard.
+Open in POWERBI for interactive dashboard.
 
 # Task B
 I have done Queries in Microsoft sql Server management Studio
